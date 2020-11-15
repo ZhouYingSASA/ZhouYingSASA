@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on some private projects for my organization that works for my school.
+
 - 👯 I’m collaborating with my teammates on the same wavelength.
 
-You can visit my blog here: http://zhouyingsasa.xyz
+- 😘 You can visit my social homepage in my github profile on the left 
+
+- 🤩 Several stars will be really appreciated 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhouYingSASA&count_private=true)
