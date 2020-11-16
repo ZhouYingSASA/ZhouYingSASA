@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some private projects for my organization that works for my school.
+- 🔭 I’m currently working on some awsome private projects for my organization that works for my school.
 
 - 👯 I’m collaborating with my teammates on the same wavelength.
 
