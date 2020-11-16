@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 👯 I’m collaborating with my teammates on the same wavelength.
 
-- 😘 You can visit my social homepage in my github profile on the left 
+- 😘 You can visit my social homepage in my github profile on the left.
 
-- 🤩 Several stars will be really appreciated 
+- 🤩 Several stars will be really appreciated.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhouYingSASA&count_private=true)
