@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 - 🤩 Several stars will be really appreciated.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZhouYingSASA&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhouyingsasa&theme=flat&margin-w=2)](https://github.com/ryo-ma/github-profile-trophy)
