@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on some awsome private projects for my organization that works for my school.
+- 🔭 I’m currently working for one of the top internet company in my contry.
 
 - 👯 I’m collaborating with my teammates on the same wavelength.
 
-- 😘 You can visit my social homepage in my github profile on the left.
+- 😘 You can visit my social homepage in my github profile on the left. (Not on updating for now.)
 
 - 🤩 Several stars will be really appreciated.
 
